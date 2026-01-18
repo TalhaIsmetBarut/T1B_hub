@@ -22,7 +22,6 @@ This project utilizes modern web technologies focusing on performance and securi
 
 * **Frontend:** HTML5, CSS3, JavaScript
 * **Hosting & Deployment:** Vercel
-* **Security & DNS:** Cloudflare (WAF, DNS Security)
 * **Utilities:** Python (includes `extract_turkey_coords.py` for data processing)
 
 ---
